@@ -440,11 +440,10 @@ NEXT TOKEN
          LLM
 ```
 
-📁 Suggested directory:
+**Articles & Notes:**
+- **01:** 🧾 *“The Essence of Generalization in Machine Learning Models”* &nbsp; 📘 [Read PDF](Docs/Generalization.pdf)
+- **02:** 🧾 *“Error Dynamics in Machine Learning: Bias, Variance, and Generalization”* &nbsp; 📘 [Read PDF](Docs/biasvariance.pdf)
 
-```text
-06-prompt-engineering/
-```
 
 </details>
 
