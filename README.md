@@ -681,35 +681,13 @@ Reason + Use Tools
 AGENTIC AI
 Pursues Goals + Acts
 ```
+**Articles & Notes:**
+- **01:** 🧾 *“Agentic AI Fundamentals”* &nbsp; 📘 [Read PDF](Docs/Agentic/agentic_ai.pdf)
+-
 
-### Core Mental Model
 
-```text
-GOAL
- │
- ▼
-PERCEIVE
- │
- ▼
-REASON
- │
- ▼
-PLAN
- │
- ▼
-ACT
- │
- ▼
-OBSERVE
- │
- └────────────► REASON
-```
 
-📁 Suggested directory:
 
-```text
-11-agentic-ai-foundations/
-```
 
 </details>
 
